@@ -1,0 +1,5 @@
+RO101,Paris,2025-05-01,14:30,programata
+RO202,Londra,2025-05-01,16:00,anulata
+RO303,Roma,2025-05-02,09:45,programata
+RO404,Berlin,2025-05-02,13:20,intarziata
+RO505,Madrid,2025-05-03,06:10,programata

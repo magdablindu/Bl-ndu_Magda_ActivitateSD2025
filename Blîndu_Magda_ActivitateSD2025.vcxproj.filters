@@ -18,5 +18,35 @@
     <ClCompile Include="Seminar01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Seminar02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar03.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar04.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar04_recapitulare.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar05.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar06.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Recapitulare.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Recapitulare01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Recalitulare02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Recapitulare03.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
