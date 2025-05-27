@@ -1,0 +1,5 @@
+Hamlet,120,1603,9
+O scrisoare pierduta,100,1884,8
+Romeo si Julieta,110,1597,9
+Take,90,1932,8
+Steaua fara nume,95,1942,8
